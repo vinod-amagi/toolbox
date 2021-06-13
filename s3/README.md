@@ -31,8 +31,8 @@ optional arguments:
 > 
 > Presign urls from a path for seven days
 >
-> python3 s3_asset_finder.py -c curiosity_vod   -r "asset_id,presign" -i vod.csv -p "VOD/curiosity_starhub/FFMPEG_OUT/" -e 604800
->  python3 s3_asset_finder.py -c amagi -b amagicloud-curiosity   -r "path" -i sample_input.csv -p "Media/S3,VOD/"
+> python3 s3_asset_finder.py -c profile-1   -r "asset_id,presign" -i vod.csv -p "path/" -e 604800
+>  python3 s3_asset_finder.py -c profile-2 -b my-bucket   -r "path" -i sample_input.csv -p "Path1,Path2/"
 >
 >
 
