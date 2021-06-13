@@ -1,0 +1,17 @@
+{
+    "profile-1": {
+        "aws_bucket": "",
+        "aws_access_key_id": "",
+        "aws_secret_access_key": ""
+    },
+    "profile-2": {
+        "aws_bucket": "",
+        "aws_access_key_id": "",
+        "aws_secret_access_key": ""
+    },
+    "profile-3": {
+        "aws_bucket": "",
+        "aws_access_key_id": "",
+        "aws_secret_access_key": ""
+    }
+}
