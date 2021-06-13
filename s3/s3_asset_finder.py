@@ -6,7 +6,7 @@ import s3
 import argparse
 
 def load_config():
-    with open("config.json") as file:
+    with open("config.prod.json") as file:
         return json.load(file)
 
 def get_inputfiles_from_csv(csv_filename):
